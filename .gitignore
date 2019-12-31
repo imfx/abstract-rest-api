@@ -1,0 +1,9 @@
+**/*.bak
+**/*.zip
+conf/*.conf
+conf/sqlite
+html/cdn
+html/json
+html/.htaccess
+logs/*.log
+tmp

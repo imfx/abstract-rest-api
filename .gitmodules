@@ -1,0 +1,3 @@
+[submodule "html/console"]
+	path = html/console
+	url = https://bitbucket.org/hds_solutions/webservice-console.git
